@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Creating a generative track
 
-You can use the [editor on GitHub](https://github.com/bcylincoln/spaceharps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In the summer of 2022, I took UC Berkeley's Music 158A: Music and Computing with CNMAT Technologies. For my final project, I set out to synthesize a convincing harp sound. I didn't quite get there, but I did like the sounds I created, so I used some other tools I learned in the class to create some generative music.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![full track](videos/fullaudio.mp4)
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax higlshlighted code block
 
 # Header 1
 ## Header 2
